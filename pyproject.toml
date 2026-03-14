@@ -9,6 +9,7 @@ dependencies = [
     "jupyterlab>=4.0",
     "matplotlib>=3.10",
     "numpy>=2.4.3",
+    "optuna>=4.7.0",
     "pandas>=3.0.1",
     "pyarrow>=19.0",
     "requests>=2.32.5",
